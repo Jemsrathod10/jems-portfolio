@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Josefin+Sans:wght@300;400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #100425;
+  color: #ffffff;
+  font-family: 'Josefin Sans', sans-serif;
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar to look cool */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #100425;
+}
+::-webkit-scrollbar-thumb {
+  background: #DC00D3;
+  border-radius: 4px;
+}
