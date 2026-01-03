@@ -85,7 +85,7 @@ const App = () => {
     <a href="https://github.com/Jemsrathod10" target="_blank" className="text-gray-400 hover:text-secondary transition-colors">
       <Github size={24} />
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" className="text-gray-400 hover:text-primary transition-colors">
+    <a href="linkedin.com/in/jems-rathod-659032393" target="_blank" className="text-gray-400 hover:text-primary transition-colors">
       <Linkedin size={24} />
     </a>
   </div>
