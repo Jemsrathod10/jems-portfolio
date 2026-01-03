@@ -229,7 +229,7 @@ const App = () => {
     <p className="text-gray-400 text-sm">Download my 2025 Resume for a detailed look at my BCA projects and certifications.</p>
   </div>
   <a 
-    href="/Jems_Rathod_Resume.pdf" 
+    href="/Jems_Resume.pdf" 
     className="bg-secondary text-black px-6 py-2 rounded font-bold hover:bg-white transition-colors"
   >
     VIEW RESUME
