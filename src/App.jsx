@@ -19,7 +19,7 @@ const projects = [
     category: "Backend Development / Render / Netlify",
     description: "A sophisticated plant selling application focusing on backend architecture. Integrated with Render for server-side logic and Netlify for frontend deployment. (Work in Progress)",
     image: "p10.jpg",
-    liveLink: "https://greeneryworld.netlify.app/",
+    liveLink: "https://greenworlds.vercel.app/",
     githubLink: "https://github.com/Jemsrathod10/plant-selling-backend"
   }
 ];
@@ -71,7 +71,7 @@ const App = () => {
 
   {/* Resume Download Link */}
   <a 
-    href="/Jems_Rathod_Resume.pdf" 
+    href="/Jems_Resume.pdf" 
     target="_blank" 
     rel="noopener noreferrer"
     className="px-8 py-3 border border-secondary text-secondary rounded-full font-bold hover:bg-secondary/10 transition-all flex items-center gap-2"
